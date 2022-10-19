@@ -1,0 +1,30 @@
+_repo: Histoire-de-Corse_69059
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Rocca, Raoul Colonna de Cesari
+    gutenberg_agent_id: '55077'
+    url: http://www.gutenberg.org/2009/agents/55077
+  - agent_name: Villat, Louis
+    gutenberg_agent_id: '55078'
+    url: http://www.gutenberg.org/2009/agents/55078
+description: ''
+gutenberg_issued: '2022-09-28'
+identifiers:
+  gutenberg: '69059'
+language: fr
+pgterms:marc904: https://archive.org/details/histoiredecorse00colouoft
+pgterms:marc905: 20220110134253colonnadec
+pgterms:marc906: '1916'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/Canadian Libraries)
+publication_note: France :Boivin et Cie,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Histoire de Corse
+url: http://www.gutenberg.org/ebooks/69059
